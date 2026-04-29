@@ -1,0 +1,10 @@
+IDkausar1,This is great,Bad,Resolved,kausar,pushp
+IDkausar2,Poor work,Worst,Resolved,kausar,pushp
+IDkausar3,Poor Wifi,CSIT Area,Resolved,kausar,pushp
+IDaayushi1,Poor accomodation,Bad facility,Resolved,aayushi,pushp
+IDaayushi2,Network issues,Poor ,Resolved,aayushi,pushp
+IDkausar4,Hi! no seating facility,poor condition,Resolved,kausar,aakancha
+IDkausar5,Bad sporting ground,No lights,Pending,kausar,harsh
+IDrajat1,nort work done,..,Pending,rajat,raju
+IDarsh1,paymrent stuck,paymeny mafde and it stuck,Resolved,arsh,pushp
+IDkausar6,THis is awesome!!!,I want a correction in this debuggin file of my projcet whihc is aimed at enhancing the student capabiolities,Resolved,kausar,aakancha
